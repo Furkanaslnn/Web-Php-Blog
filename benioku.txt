@@ -1,0 +1,6 @@
+Hocam merhabalar,
+
+admin paneline giriş yapabılmek için link: localhost/admin.html (admin/passsword)
+
+- Admin panelinden post paylasılabılmekte ve blog.php de görunmekte.
+- Kullanıcıcların contact üzerinden attıgı mesajlar admin panelınde gorulmektedir.
